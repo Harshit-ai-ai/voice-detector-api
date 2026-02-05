@@ -1,0 +1,30 @@
+[
+  {
+    "silence_ratio": 0.0030581039755351682,
+    "pitch_variance": 34.35147375270865,
+    "energy_jitter": 0.012644058093428612,
+    "mfcc_entropy": 7.816527366638184,
+    "label": 1
+  },
+  {
+    "silence_ratio": 0.009900990099009901,
+    "pitch_variance": 87.20300011639902,
+    "energy_jitter": 0.054633911699056625,
+    "mfcc_entropy": 6.158828258514404,
+    "label": 1
+  },
+  {
+    "silence_ratio": 0.02512562814070352,
+    "pitch_variance": 35.600577958518386,
+    "energy_jitter": 0.06733334064483643,
+    "mfcc_entropy": 7.122811317443848,
+    "label": 0
+  },
+  {
+    "silence_ratio": 0.11419753086419752,
+    "pitch_variance": 37.287559015778484,
+    "energy_jitter": 0.019892113283276558,
+    "mfcc_entropy": 5.504641056060791,
+    "label": 0
+  }
+]

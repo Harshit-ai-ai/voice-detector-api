@@ -1,0 +1,8 @@
+.venv/
+data/
+*.wav
+*.mp3
+*.aac
+*.pkl
+__pycache__/
+.env

@@ -1,0 +1,2 @@
+API_KEY = "CHANGE_ME_SUPER_SECRET"
+API_KEY_NAME = "x-api-key"
