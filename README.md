@@ -57,11 +57,6 @@ Model Training Pipeline
 python -m scripts.extract_features
 python -m scripts.train_model
 
-
-Model is saved as:
-
-voice_detector.pkl
-
 Project Structure
 voice-detector-api/
 ├── app/
@@ -80,3 +75,4 @@ voice-detector-api/
 
 Author
 Harshit Sachdeva
+
