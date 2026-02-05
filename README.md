@@ -57,22 +57,7 @@ Model Training Pipeline
 python -m scripts.extract_features
 python -m scripts.train_model
 
-Project Structure
-voice-detector-api/
-├── app/
-│   ├── main.py
-│   ├── api/
-│   │   └── routes.py
-│   └── utils/
-│       └── vad.py
-├── scripts/
-│   ├── extract_features.py
-│   ├── train_model.py
-│   └── test_model.py
-├── requirements.txt
-├── render.yaml
-└── README.md
-
 Author
 Harshit Sachdeva
+
 
