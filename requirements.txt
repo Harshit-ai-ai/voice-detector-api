@@ -4,4 +4,4 @@ numpy
 scikit-learn
 librosa
 soundfile
-python-multipart
+joblib
